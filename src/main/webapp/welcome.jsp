@@ -9,8 +9,8 @@
 <title>Welcome</title>
 </head>
 <body>
-	<h2>
+	<h1>
 		${ message }
-	</h2>
+	</h1>
 </body>
 </html>
